@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kdk:home|Door43 (kdk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kdk|d43-kdk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kdk/archive/master.zip|d43-kdk.zip]]
+
+**Recent Changes**
+{{changes>ns = kdk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kdk|Ethnologue data]]
+
